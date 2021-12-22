@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ff50cf7e014f04445b8a7e9270c41164
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 751681719699420727, guid: 5969e834c5af4784c8245794fe6e6682,
+      type: 3}
+  - enemyPrefab: {fileID: 1904087430271501524, guid: 280db44426ef6ae42b7e67c318af77c9,
+      type: 3}
+  - playerBattleStation: {instanceID: 0}
+  - enemyBattleStation: {fileID: 1458960638460994402, guid: 792daf7a079615b438597281b1a7e0a4,
+      type: 3}
+  - dialogueText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

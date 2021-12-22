@@ -1,0 +1,1832 @@
+fileFormatVersion: 2
+guid: 52a53c797a9ed994f9914cbd65d459dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6936581188318296164
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_0
+  - first:
+      213: -3618598138339548926
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_1
+  - first:
+      213: 430828611230980592
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_2
+  - first:
+      213: 4608650033222732795
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_3
+  - first:
+      213: 2935694814963108760
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_4
+  - first:
+      213: 7045809009692654697
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_5
+  - first:
+      213: 58714302606386402
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_6
+  - first:
+      213: 8091057445102013590
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_7
+  - first:
+      213: 2126781586523229261
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_8
+  - first:
+      213: -3460348589806694840
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_9
+  - first:
+      213: -1087907997478532654
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_10
+  - first:
+      213: -2168317881446322565
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_11
+  - first:
+      213: 4013029153822542853
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_12
+  - first:
+      213: -9079397226672838927
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_13
+  - first:
+      213: -8672915480771492292
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_14
+  - first:
+      213: -1638984252381559023
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_15
+  - first:
+      213: 5254219382980711872
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_16
+  - first:
+      213: -1792885629282770516
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_17
+  - first:
+      213: -3805105611474099353
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_18
+  - first:
+      213: 7741346577400363634
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_19
+  - first:
+      213: 8940443333241223448
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_20
+  - first:
+      213: -1783202823725845063
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_21
+  - first:
+      213: 8500887012217949266
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_22
+  - first:
+      213: -8426555537528662711
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_23
+  - first:
+      213: 5388104803233226492
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_24
+  - first:
+      213: -9069036458730971891
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_25
+  - first:
+      213: -4491278002131993498
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_26
+  - first:
+      213: -5825245175269518145
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_27
+  - first:
+      213: -8167063103145246557
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_28
+  - first:
+      213: -7824829871781375822
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_29
+  - first:
+      213: 2704805667334575388
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_30
+  - first:
+      213: 554621795572577035
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_31
+  - first:
+      213: 3118913266981704804
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_32
+  - first:
+      213: 4595197741548789864
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_33
+  - first:
+      213: 3629025110942467404
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_34
+  - first:
+      213: -7180122705880207941
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_35
+  - first:
+      213: -9083868419211075953
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_36
+  - first:
+      213: 775573930278754535
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_37
+  - first:
+      213: 7284256330365612217
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_38
+  - first:
+      213: 2796495128177952958
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_39
+  - first:
+      213: 3995238610375220616
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_40
+  - first:
+      213: 1407398464158173888
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_41
+  - first:
+      213: 4921583916718028065
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_42
+  - first:
+      213: -6528955583551766060
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_43
+  - first:
+      213: -3090449680562266829
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_44
+  - first:
+      213: -3441363984961707105
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_45
+  - first:
+      213: -1676717585602823042
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_46
+  - first:
+      213: 1122607382857419560
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_47
+  - first:
+      213: 3803810180996305301
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_48
+  - first:
+      213: 922947430709220653
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_49
+  - first:
+      213: -7238836918277026155
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_50
+  - first:
+      213: 5204609626085661766
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_51
+  - first:
+      213: -7819315056422883527
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_52
+  - first:
+      213: -3444295883881407543
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_53
+  - first:
+      213: 1672011699140382905
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_54
+  - first:
+      213: 3086341830433044493
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_55
+  - first:
+      213: 251357669593884660
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_56
+  - first:
+      213: 1626807879495353311
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_57
+  - first:
+      213: -309687699081279399
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_58
+  - first:
+      213: -9144480672197535303
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_59
+  - first:
+      213: -7930125639730577930
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_60
+  - first:
+      213: 1111691939803922020
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_61
+  - first:
+      213: 5248566889205325516
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_62
+  - first:
+      213: -444562798296821700
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_63
+  - first:
+      213: -3271353152034231302
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_64
+  - first:
+      213: -2704199578238468620
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_65
+  - first:
+      213: 56126752834468346
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_66
+  - first:
+      213: 6940642442587820766
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_67
+  - first:
+      213: -2913560344531486981
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_68
+  - first:
+      213: 5193703774162546113
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_69
+  - first:
+      213: 3373905400508106507
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_70
+  - first:
+      213: 4040604555921669376
+    second: Mobile - Final Fantasy Record Keeper - Black Mage_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9781aa29205cbf90800000000000000
+      internalID: -6936581188318296164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a1635a2828cdc0800000000000000
+      internalID: -3618598138339548926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f95f7bd65c9af500800000000000000
+      internalID: 430828611230980592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb455c99c635ff30800000000000000
+      internalID: 4608650033222732795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b05d651eeadb820800000000000000
+      internalID: 2935694814963108760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 231
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3af9c6fdb7c160800000000000000
+      internalID: 7045809009692654697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 231
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a61ed85890d000800000000000000
+      internalID: 58714302606386402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 231
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc598c0e5394070800000000000000
+      internalID: 8091057445102013590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c0f83b598d38d10800000000000000
+      internalID: 2126781586523229261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4c819a4f5affc0800000000000000
+      internalID: -3460348589806694840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d94cf5b079f6e0f0800000000000000
+      internalID: -1087907997478532654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea344006698e1e0800000000000000
+      internalID: -2168317881446322565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c01e2e0c421b730800000000000000
+      internalID: 4013029153822542853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6af79b3508ff180800000000000000
+      internalID: -9079397226672838927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3601a1425d93a780800000000000000
+      internalID: -8672915480771492292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117865491882149e0800000000000000
+      internalID: -1638984252381559023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c59986d0bcbae840800000000000000
+      internalID: 5254219382980711872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1a2bfe4046e17e0800000000000000
+      internalID: -1792885629282770516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ad3f4b9c813bc0800000000000000
+      internalID: -3805105611474099353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a722d52b9ce6b60800000000000000
+      internalID: 7741346577400363634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 207
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8193a54d7d5d21c70800000000000000
+      internalID: 8940443333241223448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 207
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5f859ca7ac047e0800000000000000
+      internalID: -1783202823725845063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 207
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c8bfea2b739f570800000000000000
+      internalID: 8500887012217949266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945d089626cde0b80800000000000000
+      internalID: -8426555537528662711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeda4965c466ca40800000000000000
+      internalID: 5388104803233226492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d164ef36f442280800000000000000
+      internalID: -9069036458730971891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c756fe376cba1c0800000000000000
+      internalID: -4491278002131993498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb490866062982fa0800000000000000
+      internalID: -5825245175269518145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a004dee063c8ae80800000000000000
+      internalID: -8167063103145246557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b01b9870be986390800000000000000
+      internalID: -7824829871781375822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d0fb7c66698520800000000000000
+      internalID: 2704805667334575388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 193
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fac5a59962b700800000000000000
+      internalID: 554621795572577035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 193
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46492b3771b984b20800000000000000
+      internalID: 3118913266981704804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 206
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86061b1effb65cf30800000000000000
+      internalID: 4595197741548789864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 186
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45c2ba6c13ec5230800000000000000
+      internalID: 3629025110942467404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd2b40e0741b5c90800000000000000
+      internalID: -7180122705880207941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 189
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed8861dcd9fe180800000000000000
+      internalID: -9083868419211075953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 185
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89153616463ca00800000000000000
+      internalID: 775573930278754535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 191
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03550f980e61560800000000000000
+      internalID: 7284256330365612217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 192
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8482ba0852fc620800000000000000
+      internalID: 2796495128177952958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 183
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d17543950f17730800000000000000
+      internalID: 3995238610375220616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 185
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca04994275188310800000000000000
+      internalID: 1407398464158173888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 176
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f0402f7afc4440800000000000000
+      internalID: 4921583916718028065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 182
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d108181d7d7465a0800000000000000
+      internalID: -6528955583551766060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 182
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dddd1b3648c15d0800000000000000
+      internalID: -3090449680562266829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 173
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93e88550b1dd30d0800000000000000
+      internalID: -3441363984961707105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 182
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c3e715d3a1bb8e0800000000000000
+      internalID: -1676717585602823042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 183
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b8275877d449f00800000000000000
+      internalID: 1122607382857419560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5919c47c439d9c430800000000000000
+      internalID: 3803810180996305301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 169
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2558c95cc7fecc00800000000000000
+      internalID: 922947430709220653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e4d130d2c7a8b90800000000000000
+      internalID: -7238836918277026155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 172
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c1a6531ec7a3840800000000000000
+      internalID: 5204609626085661766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 169
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fec0b72663c7390800000000000000
+      internalID: -7819315056422883527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 175
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb98eb64276330d0800000000000000
+      internalID: -3444295883881407543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05f8b18cd243710800000000000000
+      internalID: 1672011699140382905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 158
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08f36aea83e4da20800000000000000
+      internalID: 3086341830433044493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a6bff7700d7300800000000000000
+      internalID: 251357669593884660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3802fa525939610800000000000000
+      internalID: 1626807879495353311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 151
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c3f0bda4c3bbf0800000000000000
+      internalID: -309687699081279399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b99d363747481180800000000000000
+      internalID: -9144480672197535303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd34ab0fb882f190800000000000000
+      internalID: -7930125639730577930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7da3ede58d6f00800000000000000
+      internalID: 1111691939803922020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 150
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced5f217c7a6d840800000000000000
+      internalID: 5248566889205325516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 148
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301a278d7894d9f0800000000000000
+      internalID: -444562798296821700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 124
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb252ef3a1d992d0800000000000000
+      internalID: -3271353152034231302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_65
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 133
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdb551afc0c87ad0800000000000000
+      internalID: -2704199578238468620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 137
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9381dfbf667c000800000000000000
+      internalID: 56126752834468346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25277478d125060800000000000000
+      internalID: 6940642442587820766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63988ad44f097d0800000000000000
+      internalID: -2913560344531486981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd609fa01eb31840800000000000000
+      internalID: 5193703774162546113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ce07061582de20800000000000000
+      internalID: 3373905400508106507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Black Mage_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d39818f6c131830800000000000000
+      internalID: 4040604555921669376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 04c86304532e94c43b8251dfceb00a5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

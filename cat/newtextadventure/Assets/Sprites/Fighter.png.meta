@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: eab28a67ad0e28349b0cb055891dbf59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9217985932027316254
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_0
+  - first:
+      213: -1460260797283848263
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_1
+  - first:
+      213: -6345969708523183095
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_2
+  - first:
+      213: -1839679495141037034
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_3
+  - first:
+      213: -830667315646517515
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_4
+  - first:
+      213: 282202556105619067
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_5
+  - first:
+      213: -6601305773236781476
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_6
+  - first:
+      213: -5983917975484851380
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_7
+  - first:
+      213: 5578534953985398282
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_8
+  - first:
+      213: 556751105101734115
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_9
+  - first:
+      213: 5458527449151549073
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_10
+  - first:
+      213: 6101701805930774990
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_11
+  - first:
+      213: 6147982496341772844
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_12
+  - first:
+      213: 8528403862540673956
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_13
+  - first:
+      213: -3716679739387542402
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_14
+  - first:
+      213: -7595818242201194620
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_15
+  - first:
+      213: 7201748752726686425
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_16
+  - first:
+      213: -8804459796168855630
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_17
+  - first:
+      213: -8218448238868444442
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_18
+  - first:
+      213: 5959081428931064775
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_19
+  - first:
+      213: 4224073870635372923
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_20
+  - first:
+      213: 2461101540529453593
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_21
+  - first:
+      213: -6388852999830482003
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_22
+  - first:
+      213: -5944621203790073062
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_23
+  - first:
+      213: -9078312236544049691
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_24
+  - first:
+      213: -85920230232725285
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_25
+  - first:
+      213: 6617498229702471337
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_26
+  - first:
+      213: -3201199297506307111
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_27
+  - first:
+      213: 7018049299381739945
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_28
+  - first:
+      213: -7416288193842805409
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_29
+  - first:
+      213: -6353834834147855039
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_30
+  - first:
+      213: -3626689858034031324
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_31
+  - first:
+      213: 5940525221121727023
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_32
+  - first:
+      213: 5346859752731635608
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_33
+  - first:
+      213: 5098296171242542568
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_34
+  - first:
+      213: -4158614305155201233
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_35
+  - first:
+      213: 2047532774994344206
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_36
+  - first:
+      213: 3488506961940938235
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_37
+  - first:
+      213: -4478034748708695790
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_38
+  - first:
+      213: 4006897565893875375
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_39
+  - first:
+      213: 7221058158907667278
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_40
+  - first:
+      213: 7607035023188580794
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_41
+  - first:
+      213: -6895520880129247453
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_42
+  - first:
+      213: -1828871271440803850
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_43
+  - first:
+      213: 1598746388543496809
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_44
+  - first:
+      213: -3139102287874464235
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_45
+  - first:
+      213: -206140764708258071
+    second: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b6f042a2231080800000000000000
+      internalID: -9217985932027316254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa77aaa8c1cbbe0800000000000000
+      internalID: -1460260797283848263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90426182c269ee7a0800000000000000
+      internalID: -6345969708523183095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c6c870f352876e0800000000000000
+      internalID: -1839679495141037034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feac5c3a70e874f0800000000000000
+      internalID: -830667315646517515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 231
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f167cab59ae300800000000000000
+      internalID: 282202556105619067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7c7cdf537364a0800000000000000
+      internalID: -6601305773236781476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b96223e4ad4fca0800000000000000
+      internalID: -5983917975484851380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06566bfbffea6d40800000000000000
+      internalID: 5578534953985398282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e025e72e2af9b700800000000000000
+      internalID: 556751105101734115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea5636bc590cb40800000000000000
+      internalID: 5458527449151549073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10ddbd6799da450800000000000000
+      internalID: 6101701805930774990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 232
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a45cbc185025550800000000000000
+      internalID: 6147982496341772844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a36ec7a02afa5670800000000000000
+      internalID: 8528403862540673956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e740ae50873bb6cc0800000000000000
+      internalID: -3716679739387542402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6a279d8b369690800000000000000
+      internalID: -7595818242201194620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf2e78550c1f360800000000000000
+      internalID: 7201748752726686425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa522a67640d580800000000000000
+      internalID: -8804459796168855630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 215
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eacf45bed432fd80800000000000000
+      internalID: -8218448238868444442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 215
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3301facf8e2b250800000000000000
+      internalID: 5959081428931064775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 207
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711b342eccee9a30800000000000000
+      internalID: 4224073870635372923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91abc67cfc6972220800000000000000
+      internalID: 2461101540529453593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 224
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35ae6db0c3657a0800000000000000
+      internalID: -6388852999830482003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1376d7d286708da0800000000000000
+      internalID: -5944621203790073062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 220
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb5bcae1b530280800000000000000
+      internalID: -9078312236544049691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 194
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd865fd7100cecef0800000000000000
+      internalID: -85920230232725285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 194
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae2133349316db50800000000000000
+      internalID: 6617498229702471337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 194
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d318e8133e0393d0800000000000000
+      internalID: -3201199297506307111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 194
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e3d197ae156160800000000000000
+      internalID: 7018049299381739945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 194
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55831e4e2d041990800000000000000
+      internalID: -7416288193842805409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1453d15e1e4a2d7a0800000000000000
+      internalID: -6353834834147855039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 212
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ae550ac86badc0800000000000000
+      internalID: -3626689858034031324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a9530e63cf07250800000000000000
+      internalID: 5940525221121727023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 173
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe661cd9cd33a40800000000000000
+      internalID: 5346859752731635608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e555a61b59c0c640800000000000000
+      internalID: 5098296171242542568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 169
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27cd5f9252a946c0800000000000000
+      internalID: -4158614305155201233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 170
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f187e53c4a6c10800000000000000
+      internalID: 2047532774994344206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd77f6599aa96030800000000000000
+      internalID: 3488506961940938235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211dc572f13dad1c0800000000000000
+      internalID: -4478034748708695790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa65b725b1c5b9730800000000000000
+      internalID: 4006897565893875375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 153
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b020032a563460800000000000000
+      internalID: 7221058158907667278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab95c1fbc0e919960800000000000000
+      internalID: 7607035023188580794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277b962b403e40a0800000000000000
+      internalID: -6895520880129247453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79ad5b44b8e96e0800000000000000
+      internalID: -1828871271440803850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e21fae53ef2610800000000000000
+      internalID: 1598746388543496809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51660a1d91baf64d0800000000000000
+      internalID: -3139102287874464235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Warrior of Light Classic Crimson_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee36d11114a32df0800000000000000
+      internalID: -206140764708258071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2408 @@
+fileFormatVersion: 2
+guid: 0dc175a4a01c93247bcdabbe91b8d364
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2023038619551196949
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_0
+  - first:
+      213: 3986870501528228936
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_1
+  - first:
+      213: 3518560872207301295
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_2
+  - first:
+      213: -6429433845188634561
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_3
+  - first:
+      213: 6410412709563359355
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_4
+  - first:
+      213: -3575588220549205373
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_5
+  - first:
+      213: -8653112625339219608
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_6
+  - first:
+      213: -1123913570882532412
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_7
+  - first:
+      213: 8814138135602979434
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_8
+  - first:
+      213: 1799582276641643429
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_9
+  - first:
+      213: -3974775274919442818
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_10
+  - first:
+      213: 4633517057354779177
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_11
+  - first:
+      213: 3745531548854862709
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_12
+  - first:
+      213: 6472382809064527282
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_13
+  - first:
+      213: -6293883314002850265
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_14
+  - first:
+      213: -6886666952776384405
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_15
+  - first:
+      213: -720395192385750924
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_16
+  - first:
+      213: -5479583637632275878
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_17
+  - first:
+      213: 5894013361662560885
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_18
+  - first:
+      213: 3603066816716306208
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_19
+  - first:
+      213: 5997728671173645690
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_20
+  - first:
+      213: 2708183423310687955
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_21
+  - first:
+      213: -7620742383730024217
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_22
+  - first:
+      213: -8574632282338065093
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_23
+  - first:
+      213: -149118216899168463
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_24
+  - first:
+      213: 7509279075125211268
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_25
+  - first:
+      213: 6664535384263245088
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_26
+  - first:
+      213: -4652285142016171113
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_27
+  - first:
+      213: -16942029750290
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_28
+  - first:
+      213: 6774296509498595836
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_29
+  - first:
+      213: 3061209823321416160
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_30
+  - first:
+      213: 659268451157973044
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_31
+  - first:
+      213: 2567159636954079576
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_32
+  - first:
+      213: -2261311516531320273
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_33
+  - first:
+      213: -2936361391953021687
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_34
+  - first:
+      213: 4055108667819481009
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_35
+  - first:
+      213: 3819618694867281842
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_36
+  - first:
+      213: 6477098104095908451
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_37
+  - first:
+      213: 1474327965247014018
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_38
+  - first:
+      213: -8979599602745986931
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_39
+  - first:
+      213: -2434686980172232552
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_40
+  - first:
+      213: 6438302037002543282
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_41
+  - first:
+      213: -1002916499011568148
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_42
+  - first:
+      213: -4692819209060199355
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_43
+  - first:
+      213: 3133870659076503355
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_44
+  - first:
+      213: 2569969778513337675
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_45
+  - first:
+      213: 990800201411002932
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_46
+  - first:
+      213: -8872130760592069030
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_47
+  - first:
+      213: -3217249457314565933
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_48
+  - first:
+      213: 7568294144929963428
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_49
+  - first:
+      213: 2150359521521220841
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_50
+  - first:
+      213: -5930833932681444045
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_51
+  - first:
+      213: 4061576900447226202
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_52
+  - first:
+      213: 1054646957127540116
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_53
+  - first:
+      213: -764746577636054852
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_54
+  - first:
+      213: -3924998946166712442
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_55
+  - first:
+      213: 8163620542004142593
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_56
+  - first:
+      213: 5977708188283870365
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_57
+  - first:
+      213: 7074628478257076612
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_58
+  - first:
+      213: 4491590990957768401
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_59
+  - first:
+      213: -1092674240857059969
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_60
+  - first:
+      213: -6623587802421717687
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_61
+  - first:
+      213: -5198555391493379792
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_62
+  - first:
+      213: 8044582905057261889
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_63
+  - first:
+      213: -884448563692914983
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_64
+  - first:
+      213: -3199142951018413723
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_65
+  - first:
+      213: 4583682768312722992
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_66
+  - first:
+      213: 3003766110851819052
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_67
+  - first:
+      213: 5306552307382332879
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_68
+  - first:
+      213: 2350000135240035804
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_69
+  - first:
+      213: -5561887902241195976
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_70
+  - first:
+      213: 5317577751623601968
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_71
+  - first:
+      213: 7129132783021028996
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_72
+  - first:
+      213: 5465406714733016807
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_73
+  - first:
+      213: 6105500163165377478
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_74
+  - first:
+      213: 9213241187950089444
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_75
+  - first:
+      213: 1038380856782029275
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_76
+  - first:
+      213: -5551887860165928239
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_77
+  - first:
+      213: -5769144867439180904
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_78
+  - first:
+      213: -7537955101128106275
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_79
+  - first:
+      213: -1943982400313391100
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_80
+  - first:
+      213: 8608844016733300720
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_81
+  - first:
+      213: 1890326904322210295
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_82
+  - first:
+      213: 7757288264350546748
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_83
+  - first:
+      213: -5728546561013084483
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_84
+  - first:
+      213: 2418959523873826942
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_85
+  - first:
+      213: -2605192501501597146
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_86
+  - first:
+      213: -2826008816089449370
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_87
+  - first:
+      213: -6740720441303968500
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_88
+  - first:
+      213: 6726653786392483923
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_89
+  - first:
+      213: -8736141122592968756
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_90
+  - first:
+      213: -8261191376715420816
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_91
+  - first:
+      213: 4741840246841557208
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_92
+  - first:
+      213: -5359131141048477560
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_93
+  - first:
+      213: 2964634210665888316
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_94
+  - first:
+      213: -8491246686091803880
+    second: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be811c21819bce3e0800000000000000
+      internalID: -2023038619551196949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844d2190995345730800000000000000
+      internalID: 3986870501528228936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa318c987074d030800000000000000
+      internalID: 3518560872207301295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3858ae7bff06c6a0800000000000000
+      internalID: -6429433845188634561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 336
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b706c21456c56f850800000000000000
+      internalID: 6410412709563359355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f71b2575f06ec0800000000000000
+      internalID: -3575588220549205373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8614535d9e7f9e780800000000000000
+      internalID: -8653112625339219608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 336
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4e41ef8e0760f0800000000000000
+      internalID: -1123913570882532412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e6dd5feb125a70800000000000000
+      internalID: 8814138135602979434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5057cb8669f810800000000000000
+      internalID: 1799582276641643429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 336
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76cb6c52f2c6d8c0800000000000000
+      internalID: -3974775274919442818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 335
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a4858d63f8d4040800000000000000
+      internalID: 4633517057354779177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734388591dcaf330800000000000000
+      internalID: 3745531548854862709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5d2a86fd582d950800000000000000
+      internalID: 6472382809064527282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 292
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0a1be872a7a8a0800000000000000
+      internalID: -6293883314002850265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 290
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608751c4e4ad60a0800000000000000
+      internalID: -6886666952776384405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478b2fba364a006f0800000000000000
+      internalID: -720395192385750924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 292
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aa2e1b6bb94f3b0800000000000000
+      internalID: -5479583637632275878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 290
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a8d43bcedbbc150800000000000000
+      internalID: 5894013361662560885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0277f501e2aa00230800000000000000
+      internalID: 3603066816716306208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 292
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751b78f2763c3350800000000000000
+      internalID: 5997728671173645690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 290
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee8059976659520800000000000000
+      internalID: 2708183423310687955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0220dad2fad3690800000000000000
+      internalID: -7620742383730024217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 292
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3584ab9e59c00980800000000000000
+      internalID: -8574632282338065093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 244
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1377f2495c93eedf0800000000000000
+      internalID: -149118216899168463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480bc107881563860800000000000000
+      internalID: 7509279075125211268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d380c2f9f2d7c50800000000000000
+      internalID: 6664535384263245088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936c4cef43cf6fb0800000000000000
+      internalID: -4652285142016171113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefb5506790fffff0800000000000000
+      internalID: -16942029750290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 242
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf915db98c2230e50800000000000000
+      internalID: 6774296509498595836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 244
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e162068d1a9b7a20800000000000000
+      internalID: 3061209823321416160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 240
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43894e2d921362900800000000000000
+      internalID: 659268451157973044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 242
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516e52a61260a320800000000000000
+      internalID: 2567159636954079576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 244
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a96aa18253e90e0800000000000000
+      internalID: -2261311516531320273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 240
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f77c1fd2ff37d0800000000000000
+      internalID: -2936361391953021687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 242
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7dcf639d3a64830800000000000000
+      internalID: 4055108667819481009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7610d37f2020530800000000000000
+      internalID: 3819618694867281842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 192
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3622ef5986643e950800000000000000
+      internalID: 6477098104095908451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28409fa197dd57410800000000000000
+      internalID: 1474327965247014018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80361dbcbd026380800000000000000
+      internalID: -8979599602745986931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c09f4711463ed0800000000000000
+      internalID: -2434686980172232552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e5305791795950800000000000000
+      internalID: 6438302037002543282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced790102cce412f0800000000000000
+      internalID: -1002916499011568148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 192
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54456d00bc1cfdeb0800000000000000
+      internalID: -4692819209060199355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37364ea2cebd7b20800000000000000
+      internalID: 3133870659076503355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dd6c3b5ed5aa320800000000000000
+      internalID: 2569969778513337675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 192
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4320d70a88700cd00800000000000000
+      internalID: 990800201411002932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 194
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee71e641cdfd480800000000000000
+      internalID: -8872130760592069030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d072fe0aa80a53d0800000000000000
+      internalID: -3217249457314565933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad18302d6bf70960800000000000000
+      internalID: 7568294144929963428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecb6ab779c97dd10800000000000000
+      internalID: 2150359521521220841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33580bc06f171bda0800000000000000
+      internalID: -5930833932681444045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c61bfbae9d5830800000000000000
+      internalID: 4061576900447226202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d980bd1dbd2ae00800000000000000
+      internalID: 1054646957127540116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8aec81a031365f0800000000000000
+      internalID: -764746577636054852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68753f5014a9789c0800000000000000
+      internalID: -3924998946166712442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022d3751a10b4170800000000000000
+      internalID: 8163620542004142593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c9a9d0de515f250800000000000000
+      internalID: 5977708188283870365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 144
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48910643e112e2260800000000000000
+      internalID: 7074628478257076612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee1647536555e30800000000000000
+      internalID: 4491590990957768401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dce72319a06d0f0800000000000000
+      internalID: -1092674240857059969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451b0aacf94414a0800000000000000
+      internalID: -6623587802421717687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 100
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03968d02a650bd7b0800000000000000
+      internalID: -5198555391493379792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 98
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1493e16b78914af60800000000000000
+      internalID: 8044582905057261889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6baf2a7bec9b3f0800000000000000
+      internalID: -884448563692914983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 100
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5614ad29f6c5a93d0800000000000000
+      internalID: -3199142951018413723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 98
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036eb5041338c9f30800000000000000
+      internalID: 4583682768312722992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26eda9fc558fa920800000000000000
+      internalID: 3003766110851819052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 100
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdad8f4539a4a940800000000000000
+      internalID: 5306552307382332879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 98
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2a131ca0ec9020800000000000000
+      internalID: 2350000135240035804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 96
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fe5acb6430d2b0800000000000000
+      internalID: -5561887902241195976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 100
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8b079ac4dbc940800000000000000
+      internalID: 5317577751623601968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867f809e74cfe260800000000000000
+      internalID: 7129132783021028996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e632b8337609db40800000000000000
+      internalID: 5465406714733016807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3df81dc081bb450800000000000000
+      internalID: 6105500163165377478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 52
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e453cdeb020cdf70800000000000000
+      internalID: 9213241187950089444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10f0e33e1196e00800000000000000
+      internalID: 1038380856782029275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 50
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da9106086bb3f2b0800000000000000
+      internalID: -5551887860165928239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 52
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893058e2f41efefa0800000000000000
+      internalID: -5769144867439180904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde5a68f5cdc36790800000000000000
+      internalID: -7537955101128106275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 50
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40885bb7e469505e0800000000000000
+      internalID: -1943982400313391100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 52
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a2288502c87770800000000000000
+      internalID: 8608844016733300720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f93d79dd4acb3a10800000000000000
+      internalID: 1890326904322210295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 50
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bbbe8939c67ab60800000000000000
+      internalID: 7757288264350546748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe878ff04d1080b0800000000000000
+      internalID: -5728546561013084483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e782c8aeeded19120800000000000000
+      internalID: 2418959523873826942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a6c78093f78dbd0800000000000000
+      internalID: -2605192501501597146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbdd064fff7c8d0800000000000000
+      internalID: -2826008816089449370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05dcd5f8762472a0800000000000000
+      internalID: -6740720441303968500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d5f8baffd95d50800000000000000
+      internalID: 6726653786392483923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe9206fedf2c680800000000000000
+      internalID: -8736141122592968756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b6b59663a5a5d80800000000000000
+      internalID: -8261191376715420816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d044a6c4966ec140800000000000000
+      internalID: 4741840246841557208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88852110f9a80a5b0800000000000000
+      internalID: -5359131141048477560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af5b77b1f742920800000000000000
+      internalID: 2964634210665888316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 179-1797406_chocobo-sheet-final-fantasy-chocobo-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8130947a028092a80800000000000000
+      internalID: -8491246686091803880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c816dead6a2ac24a9c657527674b51f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
